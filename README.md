@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <!-- GitHub Status -->
 <h1 align="center">&#x1f4c8; Github Status</h1>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=&theme=algolia&column=7&no-frame=true&show_icons=true" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=haliyasta&theme=algolia&column=7&no-frame=true&show_icons=true" /></p>
