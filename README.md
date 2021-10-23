@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Haliyasta Agustia 👋</h1>
 
 <!--
 **haliyasta/haliyasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- GitHub Status -->
+<h1 align="center">&#x1f4c8; Github Status</h1>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=&theme=algolia&column=7&no-frame=true&show_icons=true" /></p>
